@@ -14,4 +14,4 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onigiri-droid&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onigiri-droid&theme=discord_old_blurple)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Onigiri-droid&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onigiri-droid&theme=discord_old_blurple)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Onigiri-droid&theme=discord_old_blurple)
