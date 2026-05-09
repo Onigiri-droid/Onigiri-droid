@@ -7,8 +7,6 @@
 
 ### Skills
 
-### Skills
-
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36"/>](https://go.dev/doc/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/>](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/>](https://git-scm.com/)
@@ -21,7 +19,6 @@
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36"/>](https://aws.amazon.com)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/>](https://www.docker.com/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36"/>](https://www.linux.org)
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onigiri-droid&theme=discord_old_blurple)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Onigiri-droid&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onigiri-droid&theme=discord_old_blurple)
